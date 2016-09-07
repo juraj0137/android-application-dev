@@ -13,16 +13,13 @@ Create new folder `res/layout-land` and file `activity_main.xml` for your main a
 ## Screenshots
 
 ### EN localization, portrait
-![USPORT](screenshots/us-port.png)
-<img src="./screenshots/us-port.png" width="250">
-<img src="screenshots/us-port.png" width="250">
-
+<img src="screenshots/us-port.png" width="300">
 
 ### EN localization, landscape
-![USPORT](./screenshots/us-land.png =450x)
+<img src="screenshots/us-land.png" width="500">
 
 ### SK localization, portrait
-![USPORT](./screenshots/sk-port.png =250x)
+<img src="screenshots/sk-port.png" width="300">
 
 ### SK localization, landscape
-![USPORT](./screenshots/sk-land.png =450x)
+<img src="screenshots/sk-land.png" width="500">
