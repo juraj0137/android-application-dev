@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Exercise02</string>
+    <string name="button_buttons">Buttons</string>
+    <string name="button_map">Map</string>
+    <string name="button_listView">List View</string>
+    <string name="title_activity_intent_example">IntentExampleActivity</string>
+    <string name="new_activity">New activity</string>
+    <string name="new_activity_for_result">New activity for result</string>
 </resources>

@@ -9,8 +9,26 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.k8049.exercise02.MainActivity">
 
-    <TextView
+    <Button
+        android:id="@+id/button_buttons"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_centerHorizontal="true"
+        android:text="@string/button_buttons" />
+
+    <Button
+        android:id="@+id/button_map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_buttons"
+        android:layout_centerHorizontal="true"
+        android:text="@string/button_map" />
+
+    <Button
+        android:id="@+id/button_listView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_map"
+        android:layout_centerHorizontal="true"
+        android:text="@string/button_listView" />
 </RelativeLayout>
