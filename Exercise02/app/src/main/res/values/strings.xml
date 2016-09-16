@@ -1,9 +1,22 @@
 <resources>
     <string name="app_name">Exercise02</string>
-    <string name="button_buttons">Buttons</string>
     <string name="button_map">Map</string>
     <string name="button_listView">List View</string>
-    <string name="title_activity_intent_example">IntentExampleActivity</string>
     <string name="new_activity">New activity</string>
     <string name="new_activity_for_result">New activity for result</string>
+    <string name="choose_your_favorite_state">Choose your favorite state</string>
+    <string name="show_favorite_state">Show favorite state</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="first_name">First name</string>
+    <string name="login">Login</string>
+    <string name="login_activity">Login activity</string>
+    <string name="radio_buttons">Radio buttons</string>
+    <string name="put_coordinates">Put coordinates</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    <string name="show_map">Show map</string>
+    <string name="text_to_display_in_new_activity">Text to display in new activity</string>
+    <string name="from_previous_activity">From previous activity</string>
+    <string name="go_back">Go back</string>
 </resources>

@@ -10,18 +10,32 @@
     tools:context="com.example.k8049.exercise02.MainActivity">
 
     <Button
-        android:id="@+id/button_buttons"
+        android:id="@+id/button_radioButtons"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="@string/button_buttons" />
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="handleShowRadioButtonsActivity"
+        android:text="@string/radio_buttons" />
+
+    <Button
+        android:id="@+id/button_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_radioButtons"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="handleShowLoginActivity"
+        android:text="@string/login_activity" />
 
     <Button
         android:id="@+id/button_map"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button_buttons"
+        android:layout_below="@+id/button_login"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="handleShowMapActivity"
         android:text="@string/button_map" />
 
     <Button
@@ -30,5 +44,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/button_map"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="handleShowListViewActivity"
         android:text="@string/button_listView" />
+
 </RelativeLayout>

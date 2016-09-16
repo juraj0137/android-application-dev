@@ -23,7 +23,7 @@ public class NewEmptyActivity extends AppCompatActivity {
 
     public void goBack(View view) {
         Intent intent = new Intent();
-        intent.putExtra("result", "kvakuan");
+        intent.putExtra("result", "Back result");
         setResult(RESULT_OK, intent);
         finish();
     }
