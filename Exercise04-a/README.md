@@ -1,7 +1,7 @@
-# Android Application Dev (TTOW0620)
+# No.4 exercise - Async load images from internet
 
-## Exercises
+This exercise teaches you to implement ImageView into your application. Application load images from the internet. A new image will be loaded with touch events (swipe left or right in activity). 
 
-1. [Exercise 1 - resources](https://github.com/juraj0137/android-application-dev/tree/master/Exercise01)
-2. [Exercise 2 - Intent and handling data transfer between Activities](https://github.com/juraj0137/android-application-dev/tree/master/Exercise02)
-3. [Exercise 3 - Menu and notifications](https://github.com/juraj0137/android-application-dev/tree/master/Exercise03)
+
+## Async load images from internet
+![GitHub Logo](screenshots/device-2016-10-03-223541.mp4.gif)
