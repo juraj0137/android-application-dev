@@ -8,3 +8,4 @@
 4. Exercise 4
   - [a - Async load images from internet](https://github.com/juraj0137/android-application-dev/tree/master/Exercise04-a)
   - [b - Music player, load files from storage](https://github.com/juraj0137/android-application-dev/tree/master/Exercise04-b)
+5. [Exercise 5 - App state saving and restoring](https://github.com/juraj0137/android-application-dev/tree/master/Exercise05-a)
