@@ -3,4 +3,4 @@
 Simple app which use Accelerometer sensor.
 
 ## Screenshot
-![App](screenshots/screenshot.png=350x)
+<img src="screenshots/screenshot.png" width="350">
